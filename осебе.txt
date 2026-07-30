@@ -1,0 +1,51 @@
+[script]
+[set var=img_state value=0]
+[bind target=swapimg_top][mul var=img_state value=-1][add var=img_state value=1][/bind]
+[bind target=swapimg_left][mul var=img_state value=-1][add var=img_state value=1][/bind]
+[bind target=swapimg_right][mul var=img_state value=-1][add var=img_state value=1][/bind]
+[bind target=swapimg_bottom][mul var=img_state value=-1][add var=img_state value=1][/bind]
+[/script]
+
+[canvas w=1900 h=766]
+[layer x=36.84 y=2.87 w=31.47 h=89.95 z=1 r=0][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/bg_boomerang.gif?raw=true[/img][/layer]
+[layer x=40.63 y=42.17 w=24 h=3.92 z=2 r=0 color=#cebf9850 size=10 font=montserrat pad=0][center]𑣲 Pierce The Veil — King For A Day (осторожно, громко!)[/center][/layer]
+[layer x=40.63 y=46.87 w=24 h=38.32 z=3 r=0 color=#cebf98 bgrf=linear-gradient(90deg,#b5a08e10,#251F1C50) size=14 font=montserrat pad=20 radius=16 borderw=1 borderc=#534c46][center]⸻  ✦✦✦  ⸻
+
+[b][cat1669016][/b] — [i]воительница[/i]
+[i][size=7][[url=cat384095]прошлая жизнь[/url]] [[url=https://sites.google.com/view/edkaya/едкая?authuser=0]лор персонажа[/url]][/size][/i]
+
+⟡ Сайтовый художник
+⟡ Помогаю с живописцами содружества 
+⟡ Ем свою и вашу паутину в туннелях
+⟡ Не против связать лор с вами, если он мне будет интересен! [/center][/layer]
+[layer x=40.84 y=88.19 w=6.16 h=4.05 z=5 r=0 link=https://vk.com/hikkikkomori][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/vk.png?raw=true[/img][/layer]
+[layer x=58.53 y=88.19 w=6.42 h=4.05 z=6 r=0 link=https://vk.com/sorasuma][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/vkp.png?raw=true[/img][/layer]
+[layer x=47.58 y=88.32 w=10.32 h=4.05 z=7 r=0 link=https://t.me/syrozhuyka][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/tgc.png?raw=true[/img][/layer]
+[layer x=47.79 y=4.57 w=9.95 h=4.31 z=8 r=0 color=#baada150 size=19][center][b][url=https:cat770168]♡[/url] [url=cat1665386]♡[/url] [url=cat1631390]♡[/url] [url=cat1688472]♡[/url] [url=cat1602347]♡[/url] [url=cat564269]♡[/url][/b] [/center][/layer]
+[layer x=62.79 y=77.68 w=3.68 h=9.15 z=9 r=15 header=meow][img]https://clck.ru/3T47Nj.png[/img][/layer]
+[layer x=48.42 y=9.41 w=8.95 h=29.9 z=10 r=0][img]https://raw.githubusercontent.com/Sorasuma/kartinki/refs/heads/main/ocebe/ava.png[/img][/layer]
+[layer x=48.42 y=36.68 w=13.58 h=4.7 z=11 r=0][audiobar id="ptv" barfill="#B4A785" track="#21201C" thumb="#FFFFFF00" thickness="15"][/audiobar][/layer]
+[layer x=46.21 y=36.68 w=2.11 h=6.01 z=20 r=0][audioplay id="ptv" src="https://clck.ru/3T2tSc.mp3"][img]https://clck.ru/3T2qed.png[/img][/audioplay][/layer]
+[layer x=36.84 y=2.87 w=31.47 h=89.95 z=30 r=0 block=meow][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/bg_boomerang.gif?raw=true[/img][/layer]
+[layer x=40.53 y=19.38 w=24 h=65.28 z=31 r=0 color=#cebf98 bgrf=linear-gradient(90deg,#b5a08e10,#251F1C90) size=14 font=montserrat pad=20 radius=16 borderw=1 borderc=#534c46 block=meow][center]⸻  ✦✦✦  ⸻[/center]
+Здесь я напишу какие-нибудь гадости, но чуть-чуть попозже.
+
+Мой канон тотем:
+
+[center][table=#2B2B2B][tr][td][center][bgrf=#787878][color=#3d3d3d][font=impact][size=14] Пикми матча латте [/size][/font][/color][/bgrf][bgrf=#5c5c5c][img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/Frame%20171.png?raw=true[/img][/bgrf][bgrf=#787878][font=century gothic][color=transparent]+[/color][color=#3d3d3d][size=13][i]« [b]вайб+сваговость[/b] »[/i][/size][/color][color=transparent]+[/color][/font][/bgrf][/center][/td][/tr][/table]
+⋆˚☆˖°⋆｡⋆｡‧˚ʚ🍓ɞ˚‧｡⋆° ✮˖ ࣪ ⊹⋆.[/center][/layer]
+[layer x=62.79 y=77.68 w=3.68 h=9.15 z=32 r=15 header=meow][img]https://clck.ru/3T47Nj.png[/img][/layer]
+[if var=img_state op="=" value="0"]
+[layer x=25.05 y=32.77 w=19.63 h=67.1 z=40 r=0]
+[img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/output_optimized.png?raw=true[/img]
+[/layer]
+[else]
+[layer x=25.05 y=32.77 w=19.63 h=67.1 z=40 r=0]
+[img]https://github.com/Sorasuma/kartinki/blob/main/ocebe/animation.png?raw=true[/img]
+[/layer]
+[/if]
+[layer x=25.05 y=32.77 w=19.63 h=3.85 z=41 r=0 bgr=#ffffff01 id=swapimg_top][/layer]
+[layer x=25.05 y=36.62 w=15.58 h=6.01 z=41 r=0 bgr=#ffffff01 id=swapimg_left][/layer]
+[layer x=42.74 y=36.62 w=1.94 h=6.01 z=41 r=0 bgr=#ffffff01 id=swapimg_right][/layer]
+[layer x=25.05 y=42.63 w=19.63 h=54.37 z=41 r=0 bgr=#ffffff01 id=swapimg_bottom][/layer]
+[/canvas]
